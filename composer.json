@@ -1,0 +1,26 @@
+{
+    "name": "codeblog/jwt",
+    "description": "A simple library to work with JSON Web Token and JSON Web Signature",
+    "keywords": [
+        "CodeBlog",
+        "JWT",
+        "JWS"
+    ],
+    "homepage": "http://www.codeblog.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Whallysson Avelino",
+            "email": "whallyssonallain@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeBlog\\JWT\\": "src"
+        }
+    }
+}
