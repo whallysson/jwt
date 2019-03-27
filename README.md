@@ -1,12 +1,12 @@
 # JWT Library 
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@whallysson-blue.svg?style=flat-square)](https://twitter.com/whallysson)
-[![Source Code](http://img.shields.io/badge/source-codeblog/jwt-blue.svg?style=flat-square)](https://github.com/codeblog/jwt)
+[![Source Code](http://img.shields.io/badge/source-codeblog/jwt-blue.svg?style=flat-square)](https://github.com/whallysson/jwt)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/codeblog/jwt.svg?style=flat-square)](https://packagist.org/packages/codeblog/jwt)
-[![Latest Version](https://img.shields.io/github/release/codeblog/jwt.svg?style=flat-square)](https://github.com/codeblog/jwt/releases)
+[![Latest Version](https://img.shields.io/github/release/codeblog/jwt.svg?style=flat-square)](https://github.com/whallysson/jwt/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/codeblog/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/codeblog/jwt)
-[![Quality Score](https://img.shields.io/scrutinizer/g/codeblog/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/codeblog/jwt)
+[![Build](https://img.shields.io/scrutinizer/build/g/codeblog/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/whallysson/jwt)
+[![Quality Score](https://img.shields.io/scrutinizer/g/codeblog/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/whallysson/jwt)
 [![Total Downloads](https://img.shields.io/packagist/dt/codeblog/jwt.svg?style=flat-square)](https://packagist.org/packages/ccodeblog/jwt)
 
 ###### JWT is a component that simplifies the handling of authentication in APIs. JWT contains information and metadata that describes the user's entity, authorization data, token validity, valid domain, etc.
