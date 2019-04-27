@@ -3,11 +3,11 @@
 [![Maintainer](http://img.shields.io/badge/maintainer-@whallysson-blue.svg?style=flat-square)](https://twitter.com/whallysson)
 [![Source Code](http://img.shields.io/badge/source-codeblog/jwt-blue.svg?style=flat-square)](https://github.com/whallysson/jwt)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/codeblog/jwt.svg?style=flat-square)](https://packagist.org/packages/codeblog/jwt)
-[![Latest Version](https://img.shields.io/github/release/codeblog/jwt.svg?style=flat-square)](https://github.com/whallysson/jwt/releases)
+[![Latest Version](https://img.shields.io/github/release/whallysson/jwt.svg?style=flat-square)](https://github.com/whallysson/jwt/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/codeblog/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/whallysson/jwt)
-[![Quality Score](https://img.shields.io/scrutinizer/g/codeblog/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/whallysson/jwt)
-[![Total Downloads](https://img.shields.io/packagist/dt/codeblog/jwt.svg?style=flat-square)](https://packagist.org/packages/ccodeblog/jwt)
+[![Build](https://img.shields.io/scrutinizer/build/g/whallysson/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/whallysson/jwt)
+[![Quality Score](https://img.shields.io/scrutinizer/g/whallysson/jwt.svg?style=flat-square)](https://scrutinizer-ci.com/g/whallysson/jwt)
+[![Total Downloads](https://img.shields.io/packagist/dt/codeblog/jwt.svg?style=flat-square)](https://packagist.org/packages/codeblog/jwt)
 
 ###### JWT is a component that simplifies the handling of authentication in APIs. JWT contains information and metadata that describes the user's entity, authorization data, token validity, valid domain, etc.
 
@@ -23,7 +23,7 @@ JWT é um componente que simplifica o tratamento de autenticação em APIs. JWT 
 
 ## Installation
 
-Uploader is available via Composer:
+JWT is available via Composer:
 
 ```bash
 "codeblog/jwt": "^1.0"
@@ -110,4 +110,4 @@ Thank you
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/codeblog/jwt/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/whallysson/jwt/blob/master/LICENSE) for more information.
